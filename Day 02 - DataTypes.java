@@ -9,11 +9,9 @@ public class DataTypes {
         Scanner scan = new Scanner(System.in);     //creates scanner object to read input from stdin
       
         int i1 = scan.nextInt();
-	    
-        double d1 = scan.nextDouble();            // reads input from stdin 
+	double d1 = scan.nextDouble();            // reads input from stdin 
         scan.nextLine();
-	    
-        String s1 = scan.nextLine();
+	String s1 = scan.nextLine();
         
         System.out.println(i1+i2);          	 //prints sum of 1st integer and 2nd integer
 	System.out.println(d1+d2);
