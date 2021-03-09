@@ -1,5 +1,5 @@
 
-public class HellWorld {
+public class HelloWorld {
 	public static void main(String[] args) {
 
 		Scanner scan = new Scanner(System.in);   //creates scanner object to read input from stdin
