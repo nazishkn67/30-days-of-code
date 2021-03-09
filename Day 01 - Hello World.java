@@ -7,6 +7,6 @@ public class HelloWorld {
 		scan.close();                            //closes scanner object
       
 		System.out.println("Hello, World.");     //prints Hello, World. as output 
-    System.out.println(inputString);         //prints inputString variable
+    		System.out.println(inputString);         //prints inputString variable
 	}
 }
